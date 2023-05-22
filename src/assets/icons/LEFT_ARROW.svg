@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="47" height="47" viewBox="0 0 47 47">
+  <g id="LEFT_ARROW" data-name="LEFT ARROW" transform="translate(47 47) rotate(180)">
+    <g id="Component_14_4" data-name="Component 14 – 4">
+      <g id="Rectangle_7" data-name="Rectangle 7" fill="none" stroke="#e31e25" stroke-width="1.5" stroke-dasharray="4">
+        <rect width="47" height="47" rx="23.5" stroke="none"/>
+        <rect x="0.75" y="0.75" width="45.5" height="45.5" rx="22.75" fill="none"/>
+      </g>
+      <g id="Group_7404" data-name="Group 7404" transform="translate(19.282 30.899) rotate(-90)">
+        <g id="Group_7403" data-name="Group 7403">
+          <path id="Path_7057" data-name="Path 7057" d="M7.4,8.435a1.033,1.033,0,0,1-.733-.3L.3,1.769A1.036,1.036,0,0,1,1.769.3L7.4,5.933,13.028.3a1.036,1.036,0,1,1,1.465,1.466L8.131,8.132A1.033,1.033,0,0,1,7.4,8.435Z" fill="#e31e25"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
